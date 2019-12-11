@@ -12,7 +12,7 @@ export const products = [
   {
     name: '10km corrida maluka',
     price: 299,
-    description: 'Testando integração com git'
+    description: 'Testando integração com git de novo!!!!'
   }
 ];
 
